@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Trevor Pino",
     "role": "Full Stack Web Developer and Tech Wizard",
     "linkedinId":"Your LinkedIn Id",
-    "facebookid": "Your facebookid",
+    "facebookid": "Your Facebook Id",
     "roleDescription": "Skilled in HTML, CSS, JavaScript. Practiced in meeting deadlines, creativity, and teamwork. Excited to develop responsive websites and applications, utilizing different approaches while still collaborating with others to create meaningful experience for the end user.",
     "socialLinks":[
         {
@@ -65,7 +65,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Run Buddy",
-        "description":"A fitness website. Users can find trainers and fitness package that best works for them ",
+        "description":"A fitness website. Users can find trainers and fitness package that best works for them.",
         "imgurl":"images/portfolio/project1.png",
         "url":"https://tpino92.github.io/run-buddy/"
       },
