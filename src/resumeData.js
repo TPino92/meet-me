@@ -2,8 +2,8 @@ let resumeData = {
     "imagebaseurl":"https://tpino92.github.io/proffesional-portfolio/",
     "name": "Trevor Pino",
     "role": "Full Stack Web Developer and Tech Wizard",
-    "linkedinId":"Your LinkedIn Id",
-    "facebookid": "Your Facebook Id",
+    "linkedinId":"trevor-pino-0913971b1",
+    "facebookId": "trevor.pino",
     "roleDescription": "Skilled in HTML, CSS, JavaScript. Practiced in meeting deadlines, creativity, and teamwork. Excited to develop responsive websites and applications, utilizing different approaches while still collaborating with others to create meaningful experience for the end user.",
     "socialLinks":[
         {
