@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Web Developer and Tech Wizard",
     "linkedinId":"trevor-pino-0913971b1",
     "facebookId": "trevor.pino",
-    "roleDescription": "Skilled in HTML, CSS, JavaScript. Practiced in meeting deadlines, creativity, and teamwork. Excited to develop responsive websites and applications, utilizing different approaches while still collaborating with others to create meaningful experience for the end user.",
+    "roleDescription": "Skilled in HTML, CSS, JavaScript. Proficient in meeting deadlines, creativity, and teamwork. Excited to develop responsive websites and applications, utilizing different approaches while still collaborating with others to create meaningful experience for the end user.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-facebook"
         }
       ],
-    "aboutme":"Tech Wizard who recently earned a Certificate in Full Stack Web Development from the University of Arizona. I enjoy dabbling in various parts of frontend development and am always excited to learn about new technologies, write technical articles or simply just playing games with my friends in my free time.",
+    "aboutme":"Tech Wizard who recently earned a Certificate in Full Stack Web Development from the University of Arizona. I enjoy exploring in various parts of frontend development and am always excited to learn about new technologies, write technical articles or simply just playing games with my friends in my free time.",
     "address":"Albuquerque, NM",
     "website":"trevorpino@yahoo.com",
     "education":[
